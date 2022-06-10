@@ -1,0 +1,3 @@
+
+link do git https://git-scm.com/download/win
+o gity bash é um terminal extendido para otimizar o uso do git.
